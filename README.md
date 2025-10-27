@@ -37,7 +37,7 @@
 
 ## 🤝 Connect with Me  
 <p align="center">
-  <a href="https://linkedin.com/in/evansadongo"><img src="https://img.shields.io/badge/LinkedIn-Evans%20Adongo-blue?logo=linkedin" alt="LinkedIn Badge"/></a>
+  <a href="https://linkedin.com/in/evansadongo"><img src="https://img.shields.io/badge/LinkedIn-Evans%20Bepulleyang%20Possible-blue?logo=linkedin" alt="LinkedIn Badge"/></a>
   <a href="https://github.com/RealestAtom"><img src="https://img.shields.io/badge/GitHub-RealestAtom-black?logo=github" alt="GitHub Badge"/></a>
 </p>
 
