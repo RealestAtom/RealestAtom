@@ -1,6 +1,6 @@
-<!-- Banner Image (centered) -->
+<!-- WhatsApp Image 2025-09-17 at 10.53.10_3c097cda.jpg (centered) -->
 <p align="center">
-  <img src="assets/banner.png" alt="banner" width="100%" />
+  <img src="assets/WhatsApp Image 2025-09-17 at 10.53.10_3c097cda.jpg" alt="banner" width="100%" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Evans (RealestAtom)</h1>
