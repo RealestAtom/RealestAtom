@@ -59,7 +59,7 @@ const developer = {
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### Data Science
-![DataScience](https://[img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.dreamstime.com%2Fillustration%2Fdata-science-logo.html&psig=AOvVaw1EG1MBAtf5i9ysUNvkWToQ&ust=1764383140455000&source=images&cd=vfe&opi=89978449&ved=0CBUQjhxqFwoTCNiA4Yblk5EDFQAAAAAdAAAAABAO)
+![DataScience](https://[img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white](https://img.shields.io/badge/Data Science-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 
